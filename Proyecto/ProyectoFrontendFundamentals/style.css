@@ -1,0 +1,84 @@
+*{
+    font-family: 'Cinzel', serif;
+}
+
+body {
+    background-color: black;
+}
+
+.container-registro {
+border: 1px solid;
+height: 700px;
+width: 600px;
+position: relative;
+background: linear-gradient(to bottom right, blue, violet);
+margin: auto;
+background-image: url(imperioromano.jpg);
+
+}
+
+.container-registro h1{
+text-align: center;
+font-size: 50px;
+color: #fff;
+text-shadow: 1px 1px 2px black;
+
+}
+
+.container-title1 {
+background-color: rgb(168, 8, 8);
+border-radius: 5px;
+}
+
+input{
+    display: block
+}
+
+.container {
+    margin: auto;
+    width: 200px;
+    height: auto;
+    
+    padding: 10px;
+    border-radius: 5px;
+    background: #fff;
+}
+
+.title h1 {
+    font-size: 25px;
+    border-bottom: 1px solid rgb(223, 223, 223);
+    padding-bottom: 5px;
+    color: rgb(168, 8, 8);
+}
+
+
+.formulario input{
+    font-size: 60px;
+}
+
+.boton {
+    text-align: center;
+    border: 1px solid;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background-color: rgb(168, 8, 8);
+    padding: 5px;
+}
+
+.boton a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+}
+
+.texto{
+    text-align: center;
+}
+
+.texto p{
+    font-size: 12px;
+}
+
+.texto a{
+    text-decoration: none;
+}
